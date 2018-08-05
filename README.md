@@ -1,2 +1,1 @@
-# learnPython
-gg
+# learn java
